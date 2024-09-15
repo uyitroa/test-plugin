@@ -1,0 +1,14 @@
+/Users/yuitora./RiderProjects/leetcode/leetcode/bin/Debug/net8.0/leetcode
+/Users/yuitora./RiderProjects/leetcode/leetcode/bin/Debug/net8.0/leetcode.deps.json
+/Users/yuitora./RiderProjects/leetcode/leetcode/bin/Debug/net8.0/leetcode.runtimeconfig.json
+/Users/yuitora./RiderProjects/leetcode/leetcode/bin/Debug/net8.0/leetcode.dll
+/Users/yuitora./RiderProjects/leetcode/leetcode/bin/Debug/net8.0/leetcode.pdb
+/Users/yuitora./RiderProjects/leetcode/leetcode/obj/Debug/net8.0/leetcode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuitora./RiderProjects/leetcode/leetcode/obj/Debug/net8.0/leetcode.AssemblyInfoInputs.cache
+/Users/yuitora./RiderProjects/leetcode/leetcode/obj/Debug/net8.0/leetcode.AssemblyInfo.cs
+/Users/yuitora./RiderProjects/leetcode/leetcode/obj/Debug/net8.0/leetcode.csproj.CoreCompileInputs.cache
+/Users/yuitora./RiderProjects/leetcode/leetcode/obj/Debug/net8.0/leetcode.dll
+/Users/yuitora./RiderProjects/leetcode/leetcode/obj/Debug/net8.0/refint/leetcode.dll
+/Users/yuitora./RiderProjects/leetcode/leetcode/obj/Debug/net8.0/leetcode.pdb
+/Users/yuitora./RiderProjects/leetcode/leetcode/obj/Debug/net8.0/leetcode.genruntimeconfig.cache
+/Users/yuitora./RiderProjects/leetcode/leetcode/obj/Debug/net8.0/ref/leetcode.dll
