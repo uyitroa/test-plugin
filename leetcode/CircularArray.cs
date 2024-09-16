@@ -5,7 +5,7 @@ namespace CircularArray
         private int next(int cur, ref int[] nums)
         {
             cur = (cur + nums[cur]) % nums.Length;
-            Console.WriteLine("Nexting stuffs");
+            Console.WriteLine("Nexting stuff");
             cur = cur < 0 ? cur + nums.Length : cur;
             return cur;
         }
