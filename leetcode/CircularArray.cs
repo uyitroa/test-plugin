@@ -2,7 +2,7 @@ namespace CircularArray
 {
     public class solution
     {
-        private int nExt(int cur, ref int[] nums)
+        private int next(int cur, ref int[] nums)
         {
             cur = (cur + nums[cur]) % nums.Length;
             Console.WriteLine("Nexting stuffs");
